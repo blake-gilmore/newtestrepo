@@ -3,4 +3,8 @@ Hello
 
 goodbye
 
+<<<<<<< HEAD
 Change Main
+=======
+Change New
+>>>>>>> New
